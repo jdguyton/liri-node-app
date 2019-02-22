@@ -1,4 +1,4 @@
-#liri-node-app
+# liri-node-app
 ***
 Who needs Siri when you've got Liri? Use Liri to look up information on music artists, your favorite songs, or a movie you're wondering about.
 
